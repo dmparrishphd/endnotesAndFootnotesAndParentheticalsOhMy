@@ -17,16 +17,17 @@ By way of example
 > according to this page,\* it will be available at some point.
 > I suppose I could schedule a webex meeting for the same time,
 > and we could use that for the audio.<br/>
-> (Notes<br/>\* this page:
+> (_Notes_:&mdash;<br/>\* this page:
 > "Add a dial-in number for a meeting in Teams"
 > https://support.microsoft.com/en-us/office/add-a-dial-in-number-for-a-meeting-in-teams-7c33e972-e5a2-4b32-aabd-09c0c5f18424)
 
 Description
 -----------
 
-After the main text of the paragraphs, make a soft line break. Within a parenthetical, write an indication that what follows are notes.
+After the main text of the paragraph, make a soft line break.
+Within a parenthetical, write an indication that what follows are notes.
 Then, for each note, make a soft line break, repeat the note symbol (e.g., \*), and write the note.
-It may be helpful to the reader if the  few words to which the note applies are repeated at the beginning of the note.
+It may be helpful to the reader if the few words to which the note applies are repeated at the beginning of the note.
 
 A BNF
 -----
