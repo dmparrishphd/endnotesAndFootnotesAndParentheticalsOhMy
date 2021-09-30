@@ -23,12 +23,12 @@ It may be helpful to the reader if the  few words to which the note applies are 
 A BNF
 -----
 
-<annotated text> ::= <text> <note symbol>
-  
-<tag> ::= <> | <some text that enables the reader to distinguish which note belongs to which part of the main text, which may be especially helpful if the same note symbol is used for all notes.>
-  
-<annotation> ::= <soft line break> <note symbol> <tag> <text>
-  
-<annotations> ::= <annotation> | <annotations> <annotation>
-  
-<paragraph with endnotes> ::= <start of paragraph> <annotated text> <soft line break> ( <annotations> )
+    <annotated text> ::= <text> <note symbol>
+    
+    <tag> ::= <> | <some text that enables the reader to distinguish which note belongs to which part of the main text, which may be especially helpful if the same note symbol is used for all notes.>
+    
+    <annotation> ::= <soft line break> <note symbol> <tag> <text>
+    
+    <annotations> ::= <annotation> | <annotations> <annotation>
+    
+    <paragraph with endnotes> ::= <start of paragraph> <annotated text> <soft line break> ( <annotations> )
