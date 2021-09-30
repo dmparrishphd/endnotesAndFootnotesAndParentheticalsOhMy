@@ -32,8 +32,8 @@ It may be helpful to the reader if the few words to which the note applies are r
 A BNF
 -----
 
-    <annotated text> ::= <text> <note symbol>
-    ################################################################
+    <annotated text> ::= <text> <note-symbol>
+    
     <tag> ::= <> | <some text that enables the reader to distinguish
     which note belongs to which part of the main text, which may be
     especially helpful if the same note symbol is used for all notes.>
